@@ -1,0 +1,135 @@
+AAABBB
+Evaluation Results:
+Language1 [A#=B#]:	true
+Language2 [AnBn]:	true
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	true
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+AB
+Evaluation Results:
+Language1 [A#=B#]:	true
+Language2 [AnBn]:	true
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	true
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+
+Evaluation Results:
+Language1 [A#=B#]:	true
+Language2 [AnBn]:	true
+Language3 [AnB2n)]:	true
+Language4 [(AnBm)p]:	true
+Language5 [AnBmC(n+m)]:	true
+Language6 [ABCdCBA]:	false
+
+ABABABA
+Evaluation Results:
+Language1 [A#=B#]:	false
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	false
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+ABAB
+Evaluation Results:
+Language1 [A#=B#]:	true
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	true
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+BBAA
+Evaluation Results:
+Language1 [A#=B#]:	true
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	false
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+BBBAA
+Evaluation Results:
+Language1 [A#=B#]:	false
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	false
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+AAB
+Evaluation Results:
+Language1 [A#=B#]:	false
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	true
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+AABBCCD
+Evaluation Results:
+Language1 [A#=B#]:	false
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	false
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+ABCBA
+Evaluation Results:
+Language1 [A#=B#]:	false
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	false
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+ABBBA
+Evaluation Results:
+Language1 [A#=B#]:	false
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	false
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+ABBA
+Evaluation Results:
+Language1 [A#=B#]:	true
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	false
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+ABAABBAAABBB
+Evaluation Results:
+Language1 [A#=B#]:	true
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	false
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+AABACABAA
+Evaluation Results:
+Language1 [A#=B#]:	false
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	false
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+
+AABBBAABBB
+Evaluation Results:
+Language1 [A#=B#]:	false
+Language2 [AnBn]:	false
+Language3 [AnB2n)]:	false
+Language4 [(AnBm)p]:	true
+Language5 [AnBmC(n+m)]:	false
+Language6 [ABCdCBA]:	false
+

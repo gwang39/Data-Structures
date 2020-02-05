@@ -1,0 +1,7 @@
+1 by 1 Matrix:
+
+|5.0|
+
+Determinant: 5.0
+
+

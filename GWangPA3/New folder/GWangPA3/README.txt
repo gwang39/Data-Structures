@@ -1,0 +1,17 @@
+DEVELOPMENT IDE
+
+Eclipse IDE for Java Developers
+Version: Neon.2 Release (4.6.2)
+Build id: 20161208-0600
+
+
+HOW TO RUN PROGRAM
+
+Eclipse
+
+The program can be ran in Eclopse by importing the parent folder as project and run the main class
+Main class: GWangPA3
+
+JDK 6
+The source code can be compiled with JDK 6 from the command line with or without argument as below
+java GWangPA2
